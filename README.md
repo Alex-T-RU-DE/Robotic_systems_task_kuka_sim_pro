@@ -7,3 +7,9 @@ Here you can find how it is looks like.
 Created good 3-dimensional FIFO sorting algorithm in the restricted area (Workspace of the robot covers just a small part of the table) for the "Sorting robot".
 
 Welding robot very accuratly covers top surface of the part. 
+
+You can find video examples here:
+
+https://youtu.be/IOQj25fcqhY general view
+
+https://youtu.be/iYBDBP-oVow  welding and inspection
