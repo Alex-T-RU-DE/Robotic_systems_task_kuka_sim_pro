@@ -7,10 +7,10 @@ Welding robot very accuratly covers top surface of the part.
 
 You can find video examples here:
 
-General view:
+General view (click):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/IOQj25fcqhY/0.jpg)](http://www.youtube.com/watch?v=IOQj25fcqhY "Video Title")
 
-Welding and inspection:
+Welding and inspection (click):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/iYBDBP-oVow/0.jpg)](http://www.youtube.com/watch?v=iYBDBP-oVow "Video Title")
